@@ -1,0 +1,10 @@
+body {
+  background-color: rgb(17, 17, 56);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  justify-items: center;
+  height: 100%;
+  font-style: italic;
+  color: white;
+}
